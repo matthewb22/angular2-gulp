@@ -1,3 +1,4 @@
+// start
 const gulp = require('gulp');
 const del = require('del');
 const typescript = require('gulp-typescript');
