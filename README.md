@@ -2,7 +2,7 @@
 
 Tour of Heroes: Angular2 tutorial gulped for practice 
 
-This is a copy of the Angular2 Tour of Heroes code taken from here [plunk]
+This is a copy of the Angular2 Tour of Heroes code taken from here [https://angular.io/resources/live-examples/toh-6/ts/plnkr.html]
 
 Note that the project is kept so that at all times code can be deployed with npm start, as for the tutorial itself.
 
