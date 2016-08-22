@@ -8,7 +8,7 @@ Note that the project is kept so that at all times code can be deployed with npm
 
 > git clone etc .... checkout this code
 
-> npm install - creates node_modules directory with your dependencies DO NOT CHECK IN emsure .gitignore is working
+> npm install - creates node_modules directory with your dependencies DO NOT CHECK IN ensure .gitignore is working
 
 > gulp build - checks typescript is well formed and copies all files into dist directory, also index.html and required config for typescript (transpiliers - still learning here) and systemJS (module loading library)
 
