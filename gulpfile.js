@@ -16,7 +16,7 @@ gulp.task('clean', function () {
 
 // copy static assets - i.e. non TypeScript compiled source
 gulp.task('copy:assets', ['clean'], function() {
-  return gulp.src(['app/**/*', 'index.html', 'styles.css', '!app/**/*.ts'], { base : './' })
+  return gulp.src(['app/**/*', 'index.html', 'styles.css', 'systemjs.config.js', 'tsconfig.json'], { base : './' })
     .pipe(gulp.dest('dist'))
 });
 
