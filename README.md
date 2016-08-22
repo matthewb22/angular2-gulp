@@ -1,3 +1,3 @@
-### Angular 2 Documentation Example
+### Angular 2 Tour of Heroes Tutorial - built with gulp
 
-Tour of Heroes: Angular2 tutorial gulped for practice - testing with tower
+Tour of Heroes: Angular2 tutorial gulped for practice 
